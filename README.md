@@ -3,12 +3,11 @@
 
 <img src="https://res.cloudinary.com/dmskuffif/image/upload/v1679607307/Veme_ubgh4i.jpg" alt="banner"/>
 
-## Features
+## Caracteristicas
 
-- Animated navbar
-- Slider
-- Animation on scroll
-- Responsive
+- Barra de navegacion animada
+- Animacion en el scroll
+- Diseño responsivo
 
 ## Logros del V.E.M.E
 
