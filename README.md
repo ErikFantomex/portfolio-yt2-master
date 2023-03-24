@@ -1,12 +1,7 @@
 
-## Portfolio using React js and styled-components 2023
+## V.E.M.E unison
 
-<img src="https://res.cloudinary.com/ghazni/image/upload/v1678467366/portfolio_6_tg19nz.png" alt="banner"/>
-
-## Demo
-[Demo](https://uxui-profile.netlify.app/)
-
-[Tutorial Video Link](https://youtu.be/xbyoqfwCFE8)
+<img src="https://res.cloudinary.com/dmskuffif/image/upload/v1679607307/Veme_ubgh4i.jpg" alt="banner"/>
 
 ## Features
 
@@ -15,14 +10,16 @@
 - Animation on scroll
 - Responsive
 
-## Description
+## Logros del V.E.M.E
 
-This portfolio is build using React JS, Styled-Components and react awesome reveal library. People can see the owners services, projects, clients ideas and also has a contact form for people to get in touch with. This project has a youtube video tutorial that teaches the React newbies about React Hook, React-Slick and responsive design.
+1. Derogación de la Ley Orgánica 4 de la UniSon.
+2. Cancelación por 1 año de la obligatoriedad del examen EGEL.
+3. Más de 400 alumnxs aceptados en tronco común después del plantón que hicimos en rectoría por los aspirantes a universitarios que habían sido rechazados.
+4. Posicionarse en radio pública con un programa de análisis crítico, reflexión social, cultural y política (La intersección por Radio Sonora).
 
-Developed By Milad Amiri 2023.
-Watch more videos from me [Milad Tech](https://www.youtube.com/@miladtech2844)
+basado en tutorial  By Milad Amiri 2023.
 
-## Technologies 
+## Tecnologias 
 
 - [React JS](https://reactjs.org/docs/getting-started.html)
 - [Styled-Components](https://styled-components.com)
