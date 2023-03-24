@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Veme_info/static/css/main.b052e543.css",
+    "main.js": "/Veme_info/static/js/main.a8e38114.js",
+    "index.html": "/Veme_info/index.html",
+    "main.b052e543.css.map": "/Veme_info/static/css/main.b052e543.css.map",
+    "main.a8e38114.js.map": "/Veme_info/static/js/main.a8e38114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b052e543.css",
+    "static/js/main.a8e38114.js"
+  ]
+}
